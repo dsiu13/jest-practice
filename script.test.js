@@ -10,3 +10,5 @@ dbMock = [
 it('this is a test', () => {
   googleSearch('testtest', dbMock)
 })
+
+test()
